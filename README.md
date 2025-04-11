@@ -14,7 +14,7 @@ The simulation focused on presenting retail data insights effectively to senior 
 - Reviewed raw retail data provided by Tata.  
 - Drafted 8 key questions (4 for the CEO and 4 for the CMO) to guide business decisions.  
 - Balanced both qualitative and quantitative perspectives to ensure the questions aligned with strategic priorities.  
-📄 *[Questions PDF](./Questions of intrest to the CEO & CMO.pdf)*
+📄 *[Questions PDF](./Questions of interest to the CEO & CMO.pdf)*
 
 **Task 2: Data Visualisation Strategy Quiz**  
 - Completed a multiple-choice quiz based on best practices for data storytelling.  
