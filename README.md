@@ -23,7 +23,7 @@ The simulation focused on presenting retail data insights effectively to senior 
 **Task 3: Dashboard Development**  
 - Selected 4 questions (2 from CEO, 2 from CMO) and designed visualizations in Tableau to address them.  
 - Created an interactive dashboard using retail sales data to surface insights and trends.  
-📊 *[Tata Tableau Dashboard](https://public.tableau.com/views/TATA-RetailAnalysis/Dashboard1)*
+📊 *[Tata Tableau Dashboard]([https://public.tableau.com/views/TATA-RetailAnalysis/Dashboard1](https://public.tableau.com/views/TATA-RetailAnalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))*
 
 **Task 4: Executive Presentation Script**  
 - Developed a presentation script to communicate insights drawn from the dashboard.  
