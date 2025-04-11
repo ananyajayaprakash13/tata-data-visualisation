@@ -28,7 +28,7 @@ The simulation focused on presenting retail data insights effectively to senior 
 **Task 4: Executive Presentation Script**  
 - Developed a presentation script to communicate insights drawn from the dashboard.  
 - Crafted narratives tailored to executive decision-making, highlighting key takeaways for both the CEO and CMO.  
-🎤 *[Presentation Script PDF Attached]*
+🎤 *[Presentation Video](./TATA_Presentation.mp4)*
 
 ---
 
